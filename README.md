@@ -1,5 +1,5 @@
 # final-project-kernalpanic
-final-project-kernalpanic created by GitHub Classroom
+Android application utilizing Azure's cognition API to record reciept information through the use of image analysis.
 
 Note: Please see the Project Proposal Document for more information
 
